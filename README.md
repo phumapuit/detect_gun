@@ -15,7 +15,7 @@ numpy
 After running project. You must download file weight of model detection
 
 ```
-https://drive.google.com/drive/folders/1gInxeYm81rNvnZF20F27qbO0rFs7b9lQ?fbclid=IwAR19rqHyBWGyot3wJ3mFjgTmDbkZQ75RnjZCCD85RPsK_VOvWcYKsBCPAT8&usp=drive_open
+https://drive.google.com/file/d/1PJ7hcOIuv5auvMrtURC5caiGHE1V5Cwx/view?fbclid=IwAR0HEfCsqNXZBHZFyg0pNDe9kONWVP0a-GhZoF8jGGZJur2wpU2CQLzhNgk
 ```
 After downloaded save file in folder: main
 Finally, run 
